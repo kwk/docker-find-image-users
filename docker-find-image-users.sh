@@ -2,9 +2,11 @@
 
 ################################################################################
 #
-# Usage:    Simply call program without arguments to get help.
+# Find tags in a Docker Registry that reference a given image ID.
 #
-# Author:   Konrad Kleine <konrad.wilhelm.kleine@gmail.com>
+# Usage: Simply call program without arguments to get help.
+#
+# Source: https://github.com/kwk/docker-find-image-users
 #
 ################################################################################
 
