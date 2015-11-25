@@ -1,3 +1,5 @@
+**NOTE: This only works with a docker registry v1!!!**
+
 # Objective
 
 Find tags in a Docker Registry that reference a given image ID.
