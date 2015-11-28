@@ -22,7 +22,7 @@ if [ $# -lt 1 ]; then
   echo "repos or the ones that are given that to find the tags that"
   echo "reference the given IMAGE_ID."
   echo ""
-  echo "If no registry host is given $DEFAULT_REGISTRY_HOST is used."
+  echo "If no registry host is given \"$DEFAULT_REGISTRY_HOST\" is used."
   echo ""
   echo "By default informational output is output to stderr. If you don't"
   echo "want to see it, simply append 2>/dev/null to your call and only the"
